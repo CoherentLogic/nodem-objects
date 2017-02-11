@@ -2,7 +2,7 @@
   "name": "nodem-objects",
   "version": "0.1.0",
   "description": "NodeM Objects API",
-  "main": "index.js",
+  "main": "./lib/nodem-objects",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/CoherentLogic/nodem-objects#readme",
   "dependencies": {
-    "nodem": "^0.9.0"
-  },
-    "main": "./lib/nodem-objects"
+    "nodem": "^0.9.0",
+    "underscore": "^1.8.3"
+  }
 }

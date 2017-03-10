@@ -1,6 +1,6 @@
 {
   "name": "nodem-objects",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "NodeM Objects API",
   "main": "./lib/nodem-objects",
   "scripts": {

@@ -1,8 +1,8 @@
 {
-  "name": "nodem-objects",
-  "version": "0.1.1",
-  "description": "NodeM Objects API",
-  "main": "./lib/nodem-objects",
+  "name": "mumps",
+  "version": "0.1.0",
+  "description": "MUMPS Database Connector",
+  "main": "./lib/mumps",
   "scripts": {
     "test": "node ./tests/test"
   },

@@ -55,12 +55,12 @@ function success(msg)
 {
     console.error(chalk.bold.green("[" + scriptPath() + "] SUCCESS: " + msg));
 
-    process.exit(0);
+    //process.exit(0);
 }
 
 function failure(msg)
 {
     console.error(chalk.bold.red("[" + scriptPath() + "] FAILURE: " + msg));
 
-    process.exit(1); 
+    //process.exit(1); 
 }

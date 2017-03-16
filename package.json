@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/CoherentLogic/nodem-objects#readme",
   "dependencies": {
+    "chalk": "^1.1.3",
     "nodem": "^0.9.0",
     "underscore": "^1.8.3"
   },
